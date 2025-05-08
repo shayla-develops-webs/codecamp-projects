@@ -1,0 +1,41 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name=”viewport”content=”width=device-width, initial-scale=1.0”/>
+  <meta name="description" content="This is the best travel agency">
+  <title>TRAVEL AGENCY</title>
+</head>
+<body>
+  <h1>Travel to Jamaica!</h1>
+  <p>Jamaica is a popular travel destination due to its vibrant culture, natural beauty, and delicious cuisine, offering a mix of relaxation and adventure. The island is known for its beautiful beaches, including Seven Mile Beach in Negril, and lush landscapes, including the Blue Mountains and various waterfalls like YS Falls. Additionally, Jamaica is the birthplace of reggae music, adding to its unique cultural appeal.</p>
+    <h2>Packages</h2>
+      <p>We offer a variety of vacation packages, with a strong focus on all-inclusive resorts catering to different preferences like couples, families, and adults-only groups. These packages can include flights, accommodation, meals, drinks, activities, and entertainment.</p>
+      <ul>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+      </ul>
+  <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="colosseum"></a>
+        <figcaption>Tour a stunning Colosseum at Dusk!</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Mountain"></a>
+        <figcaption>Explore Massive Mountainsides</figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="blue sea"></a>
+        <figcaption>Relax at sea and swim wih the dolphins</figcaption>
+    </figure>
+    
+</body>
+</html>
+
+** end of index.html **
+
