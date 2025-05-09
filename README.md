@@ -8,7 +8,7 @@ Welcome to my project! This repository showcases my progress as I learn web deve
 This is a live, multi-page website built using only **HTML,CSS & Javascript**. I have the goals of mastering front-end basics before moving into JavaScript, frameworks like React, and back-end technologies like Node.js and MongoDB.
 
 ### Pages:
-- https://shayla-develops-webs.github.io/codecamp-projects/build-a-recipe-page.html: My very first html website 😊
+- [https://shayla-develops-webs.github.io/codecamp-projects/build-a-recipe-page.html]: My very first html website 😊
 - [https://shayla-develops-webs.github.io/codecamp-projects/build-a-travel-agency-page.html]: one of my early pages to demonstrate navigation and structure
 
 ## 🛠️ Skills I'm Building
