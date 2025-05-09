@@ -33,7 +33,6 @@ I'm currently on a journey to become a **Full Stack Developer**, and this reposi
 
 ## 🔗 Useful Links
 
-- 🌐 **Live Site**: [Visit my project](https://shayla-develops-webs.github.io/codecamp-projects/)
 - 💼 **Portfolio**: [Coming soon!]
 - 📝 **Blog/Notes**: [Possibly coming soon]
 - 📬 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/shaylamrodgers/)| [Email](mailto:shaylamrodgers@gmail.com)
