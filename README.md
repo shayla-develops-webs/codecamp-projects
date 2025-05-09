@@ -39,4 +39,4 @@ I'm currently on a journey to become a **Full Stack Developer**, and this reposi
 - 📬 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/shaylamrodgers/)| [Email](mailto:shaylamrodgers@gmail.com)
 ---
 
-Thanks for stopping by! If you’re learning too, feel free to connect—we grow better together 🌱
+Thanks for stopping by! If you’re learning too, feel free to connect we grow better together 🌱
