@@ -8,8 +8,8 @@ Welcome to my project! This repository showcases my progress as I learn web deve
 This is a live, multi-page website built using only **HTML,CSS & Javascript**. I have the goals of mastering front-end basics before moving into JavaScript, frameworks like React, and back-end technologies like Node.js and MongoDB.
 
 ### Pages:
-- (https://shayla-develops-webs.github.io/codecamp-projects/build-a-recipe-page.html): My very first html website 😊
-- (https://shayla-develops-webs.github.io/codecamp-projects/build-a-travel-agency-page.html): one of my early pages to demonstrate navigation and structure
+- [My very first html website 😊](https://shayla-develops-webs.github.io/codecamp-projects/build-a-recipe-page.html)
+- [one of my early pages to demonstrate navigation and structure](https://shayla-develops-webs.github.io/codecamp-projects/build-a-travel-agency-page.html)
 
 ## 🛠️ Skills I'm Building
 
@@ -33,7 +33,7 @@ I'm currently on a journey to become a **Full Stack Developer**, and this reposi
 
 ## 🔗 Useful Links
 
-- 🌐 **Live Site**: [Visit my project]([https://yourusername.github.io/your-repo-name/](https://shayla-develops-webs.github.io/codecamp-projects/)
+- 🌐 **Live Site**: [Visit my project](https://shayla-develops-webs.github.io/codecamp-projects/)
 - 💼 **Portfolio**: [Coming soon!]
 - 📝 **Blog/Notes**: [Possibly coming soon]
 - 📬 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/shaylamrodgers/)| [Email](mailto:shaylamrodgers@gmail.com)
