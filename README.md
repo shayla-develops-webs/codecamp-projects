@@ -36,7 +36,7 @@ I'm currently on a journey to become a **Full Stack Developer**, and this reposi
 - 🌐 **Live Site**: [Visit my project]([https://yourusername.github.io/your-repo-name/](https://shayla-develops-webs.github.io/codecamp-projects/)
 - 💼 **Portfolio**: [Coming soon!]
 - 📝 **Blog/Notes**: [Possibly coming soon]
-- 📬 **Connect with me**: [LinkedIn]([https://www.linkedin.com/in/shaylamrodgers/])| [Email](mailto:shaylamrodgers@gmail.com)
+- 📬 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/shaylamrodgers/)| [Email](mailto:shaylamrodgers@gmail.com)
 ---
 
 Thanks for stopping by! If you’re learning too, feel free to connect—we grow better together 🌱
