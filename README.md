@@ -11,6 +11,7 @@ This is a live, multi-page website built using only **HTML,CSS & Javascript**. I
 - [My very first html website 😊](https://shayla-develops-webs.github.io/codecamp-projects/build-a-recipe-page.html)
 - [one of my early pages to demonstrate navigation and structure](https://shayla-develops-webs.github.io/codecamp-projects/build-a-travel-agency-page.html)
 - [video compilation page of the Top 3 Website for Coding Challenges using iframe element](https://shayla-develops-webs.github.io/codecamp-projects/build-a-video-compilation-page.html)
+- [event hub lab for learning semantic html, id attributes, ISO 8601 DT and anchor links](https://shayla-develops-webs.github.io/codecamp-projects/lab-event-hub.html)
 
 ## 🛠️ Skills I'm Building
 
