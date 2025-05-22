@@ -17,6 +17,7 @@ This is a live, multi-page website built using only **HTML,CSS & Javascript**. I
 
 ### Python Scripts
 - [⭐my very first python script! I made a secret message encoder/decoder and learned how to push from my IDE direct to git!](https://github.com/shayla-develops-webs/secret-message-py-script.git)
+- 
 ## 🛠️ Skills I'm Building
 
 - Semantic HTML5
