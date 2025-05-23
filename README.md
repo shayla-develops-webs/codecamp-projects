@@ -16,7 +16,8 @@ This is a live, multi-page website built using only **HTML,CSS & Javascript**. I
 - [basic html table](https://shayla-develops-webs.github.io/codecamp-projects/build-a-book-catalog-table.html)
 - [HTML check out page using ARIA labels](https://shayla-develops-webs.github.io/codecamp-projects/build-a-checkout-page.html)
 - [moview review page with a focus on semantic html and the aria-hidden label for purely decorative elements](https://shayla-develops-webs.github.io/codecamp-projects/design-a-movie-review-page.html)
-  
+- [multimedia page with focus on using track element for subtitle file and aria practices. formatting the vtt file on the back end was challenging along with the syntax of the github permalink. review my comments in the html for more info on this.](https://shayla-develops-webs.github.io/codecamp-projects/lab-multimedia-player.html)
+
 ### Python Scripts
 - [⭐my very first python script! I made a secret message encoder/decoder and learned how to push from my IDE direct to git!](https://github.com/shayla-develops-webs/secret-message-py-script.git)
 
