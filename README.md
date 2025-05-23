@@ -14,6 +14,7 @@ This is a live, multi-page website built using only **HTML,CSS & Javascript**. I
 - [event hub lab for learning semantic html, id attributes, ISO 8601 DT and anchor links](https://shayla-develops-webs.github.io/codecamp-projects/lab-event-hub.html)
 - [basic html survey form](https://shayla-develops-webs.github.io/codecamp-projects/build-a-survey-form.html)
 - [basic html table](https://shayla-develops-webs.github.io/codecamp-projects/build-a-book-catalog-table.html)
+- [HTML check out page using ARIA labels](https://shayla-develops-webs.github.io/codecamp-projects/build-a-checkout-page.html)
 
 ### Python Scripts
 - [⭐my very first python script! I made a secret message encoder/decoder and learned how to push from my IDE direct to git!](https://github.com/shayla-develops-webs/secret-message-py-script.git)
