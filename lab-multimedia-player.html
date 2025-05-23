@@ -1,0 +1,42 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Multimedia Player</title>
+</head>
+<body>
+
+  <h1>Welcome to Shay's Multimedia Corner</h1>
+  <section>
+    <h2>Now Playing: Sunset Cruise</h2>
+    <audio controls aria-label="Audio track titled Sunset Cruise">
+      <source src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3" type="audio/mpeg">
+  
+    </audio>
+  </section>
+  <section>
+    <h2>How To Download a Written Transcript for A Youtube Video</h2>
+    <video controls width="600" aria-label="Educational video on Map Method">
+      <!-- could not use the permalink that github provided for the mp4 since it is not a direct file url. changing the gibhub.com to raw.githubusercontent.com and removing the blob from the path fixed the issue with the video loading -->
+      <source src="https://raw.githubusercontent.com/shayla-develops-webs/codecamp-projects/2bb9663c61484de89c4d025ed5fd788b5325a83e/How%20to%20download%20Youtube%20subtitles%20as%20text%20(video%20transcripts%20_%20captions%20into%20google%20doc).mp4" type="video/mp4">
+      <!-- honestly using tinywow.com youtube to transcript app worked better than his method. All you have to do is add .vtt to the end of the file name -->
+      <track src="https://raw.githubusercontent.com/shayla-develops-webs/codecamp-projects/6647d9c7742cc1ec37faeab679a9b8a70a4906e4/tinywow_BSYveJOzWiFy857pcjV2fF2JJImPqRFmv8YLAeQW.vtt" kind="subtitles" srclang="en" label="English">
+    </video>
+  </section>
+
+  <section>
+    <h2>Transcript</h2>
+    <p>
+      For any YouTube video, you can download a written transcript or the subtitles of the video. This is especially useful, for example, if you want to study what someone is saying or you want to edit your own video into a blog post. So let me show you an example using one of my own videos. And here it is—I just uploaded this video a few hours ago, and the transcript is already available. It only takes YouTube a few hours to have their artificial intelligence sense what the person is saying and create a transcript. So when you go to any YouTube video, scroll down. And underneath the video—by the way, I’m assuming you are using a laptop or a desktop computer—scroll down and then click the three dots underneath the video, and then click on “Open transcript.” Alright, so here's what you do. If you want to, for example, edit this into a blog post, you want to toggle so that the timestamps are no longer there. You do this by clicking the three dots here once you've opened the transcript—click on the three dots inside the transcript and click on “Toggle timestamps.” Alright, now that the timestamps are gone, what I'd like to do is scroll down to the very bottom—so quickly scroll down to the very bottom. And then once I'm at the very bottom—whoops!—I click and select going upwards. I find that this is easier and has fewer sort of mouse errors if I do it from the bottom up instead of from the top down. You can experiment yourself, but anyway, try that. And once you have selected it, what you need to do then is Command + C on your keyboard if you're on a Mac, or on Windows it’s Ctrl + C to copy it to your invisible clipboard. And then open up a new tab. What I like to do is use Google Docs. So I’m gonna type in “doc.new.” And in case you don’t know, that automatically opens up a new Google document in your private Google Drive. So now that I have copied the transcript, I’m going to click on “Edit,” then “Paste without formatting,” so that it’s just plain text. And there it is—there’s the entire video transcript based on YouTube's artificial intelligence. It’s not going to be perfect, but it’s certainly a great start to editing this into a blog post. Alright, I hope that's helpful, and I'll see you in the next video.
+    </p>
+  </section>
+
+</body>
+</html>
+
+
+** end of index.html **
+
