@@ -30,9 +30,11 @@ This is a live, multi-page website built using only **HTML,CSS & Javascript**. I
 - Accessibility
 - Forms & Tables
 - CSS Styling and Layout
-- Javascript 
+- Javascript
+- Typescript
 - Functional programming
 - localStorage and CRUD
+- SSR
 - Responsive Design
 - Front end libraries
 - Relational databases
