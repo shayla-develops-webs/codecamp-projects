@@ -1,0 +1,46 @@
+body {
+    font-family: montserrat,sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .blog-post-card {
+    background: white;
+    border-radius: 12px;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    margin-top: 70%;
+  }
+  .post-img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    border-bottom: solid black;
+  }
+  .post-content{
+    padding: 20px;
+    text-align: center;
+  }
+  .post-title{
+    color: #000035;
+    margin: 20px;
+  }
+  .post-excerpt{
+    color: grey;
+  }
+  .read-more {
+    background-color: #000035;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 20px;
+    display: inline-block;
+  }
+  .read-more:hover{
+    background-color: orange;
+  }
