@@ -5,7 +5,15 @@ Welcome to my project! This repository showcases my progress as I learn web deve
 
 ## 🚀 What This Project Includes
 
-This is a live, multi-page website built using only **HTML,CSS & Javascript**. I have the goals of mastering front-end basics before moving into JavaScript, frameworks like React, and back-end technologies like Node.js and MongoDB.
+This repository contains the labs I'm actively completing as part of my web development bootcamp. It's a live repo, meaning it will continue to grow and evolve as I level up my skills.
+
+Each lab is an opportunity to:
+
+Show off what I’m learning in real time
+
+Practice problem-solving and front-end logic
+
+Reference working code as I build more advanced projects
 
 ### Pages:
 - [My very first html website 😊](https://shayla-develops-webs.github.io/codecamp-projects/build-a-recipe-page.html)
